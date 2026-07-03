@@ -228,6 +228,12 @@ img {
   box-shadow: 0 0 30px rgba(255, 45, 85, 0.3);
   z-index: 1;
   pointer-events: none;
+  animation: orbit-spin 6s linear infinite;
+}
+
+@keyframes orbit-spin {
+  from { transform: translate(-50%, -50%) rotate(0deg); }
+  to { transform: translate(-50%, -50%) rotate(360deg); }
 }
 
 @keyframes spin {
