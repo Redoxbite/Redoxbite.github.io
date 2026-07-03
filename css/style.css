@@ -198,7 +198,7 @@ img {
   transform: translate(-50%, -50%);
   border-radius: 50%;
   overflow: hidden;
-  background: #2a000f;
+  background: #3a0012;
   box-shadow: 0 0 40px rgba(255, 45, 85, 0.35);
   z-index: 2;
 }
@@ -208,8 +208,8 @@ img {
   width: 100%;
   height: 100%;
   object-fit: cover;
-  object-position: center center;
-  transform: scale(1.18);
+  object-position: 43% center;
+  transform: scale(1.34);
 }
 
 .orbit-ring-wrap {
