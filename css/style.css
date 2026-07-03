@@ -89,19 +89,17 @@ img {
   border-radius: 50%;
   background: var(--bg);
   object-fit: cover;
+  -webkit-mask-image: radial-gradient(circle, #000 70%, transparent 72%);
+  mask-image: radial-gradient(circle, #000 70%, transparent 72%);
+  transform: scale(1.15);
 }
 
 .brand img {
   box-shadow: 0 0 20px rgba(255, 45, 85, 0.4);
-  clip-path: circle(40% at 50% 50%);
-  transform: scale(1.2);
-  background: var(--bg);
 }
 
 .footer-brand img {
-  clip-path: circle(40% at 50% 50%);
-  transform: scale(1.2);
-  background: var(--bg);
+  transform: scale(1.15);
 }
 
 .brand-text {
@@ -223,7 +221,8 @@ img {
   animation: float 5s ease-in-out infinite;
   object-fit: cover;
   background: var(--bg);
-  clip-path: circle(42% at 50% 50%);
+  -webkit-mask-image: radial-gradient(circle, #000 70%, transparent 72%);
+  mask-image: radial-gradient(circle, #000 70%, transparent 72%);
 }
 
 @keyframes float {
