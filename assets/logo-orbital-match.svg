@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" role="img" aria-label="REDOX BITE by ZEOZOE">
+  <defs>
+    <style>
+      .red { fill: #ff1a3d; stroke: #ff1a3d; }
+      .white { fill: #f5f5f7; }
+      .stroke-red {
+        fill: none;
+        stroke: #ff1a3d;
+        stroke-width: 3.2;
+        stroke-linecap: round;
+      }
+    </style>
+  </defs>
+
+  <path class="stroke-red" d="M 318 52 C 372 72, 388 138, 348 208"/>
+  <circle class="red" cx="318" cy="52" r="7.5" fill="#ff1a3d" stroke="none"/>
+
+  <path class="stroke-red" d="M 82 348 C 28 328, 12 262, 52 192"/>
+  <circle class="red" cx="82" cy="348" r="7.5" fill="#ff1a3d" stroke="none"/>
+
+  <circle cx="200" cy="200" r="118" class="stroke-red" stroke-dasharray="16 12"/>
+  <circle cx="200" cy="200" r="102" class="stroke-red" stroke-width="2.4" stroke-dasharray="11 9"/>
+
+  <text x="200" y="192" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="38" font-weight="700" letter-spacing="5" class="red">REDOX</text>
+  <text x="200" y="232" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="38" font-weight="700" letter-spacing="5" class="white">BITE</text>
+  <text x="200" y="256" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="400" letter-spacing="2.5" class="white">by ZEOZOE</text>
+</svg>
