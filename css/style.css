@@ -1202,10 +1202,8 @@ img {
 
 .pdp__gallery {
   display: grid;
-  grid-template-columns: 1fr;
-  gap: 1.5rem;
-  max-width: 36rem;
-  margin-inline: auto;
+  grid-template-columns: 1fr 1fr;
+  gap: 1.25rem;
   width: 100%;
 }
 
