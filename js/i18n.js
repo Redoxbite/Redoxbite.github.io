@@ -38,7 +38,7 @@
       aboutCredit: 'Registrovaná značka <strong>ZEOZOE®</strong> &middot; Vyrobené na Slovensku',
       productsLabel: "Produkty",
       productsTitle: 'Redox Bite by <span class="highlight">ZEOZOE</span>',
-      productsIntro: "Berry Digest — funkčná tyčinka pre energiu a trávenie. Dostupné opäť od 14. 7.",
+      productsIntro: "Berry Digest — funkčná tyčinka pre energiu a trávenie. YUMMI CACAO Pomaranč — kakao bez pridaného cukru.",
       badgeNew: "Novinka",
       productSingleDesc:
         "Funkčná redoxná tyčinka — 1 × 40 g. Podporuje bunkovú energiu a rovnováhu trávenia vďaka zápornému ORP –30 mV.",
@@ -114,7 +114,83 @@
       emailLabel: "E-mail",
       shopLabel: "Obchod",
       footerCredit: "by ZEOZOE® &middot; Vyrobené na Slovensku &middot; &copy; 2026",
-      mailSubjectPrefix: "Redox Bite — Správa od "
+      mailSubjectPrefix: "Redox Bite — Správa od ",
+      cacaoPageTitle: "YUMMI CACAO Pomaranč | Bez pridaného cukru",
+      cacaoMetaDesc:
+        "Prémiová kakaová zmes s pomarančom, pravou vanilkou a bez pridaného cukru. Na horúce kakao, smoothie, jogurt, tvaroh aj pečenie. 100 g.",
+      cacaoHome: "Domov",
+      cacaoBreadcrumb: "YUMMI CACAO Pomaranč",
+      cacaoH1: 'YUMMI CACAO <span class="highlight">Pomaranč</span>',
+      cacaoSeoName: "REDOX BITE YUMMI CACAO Pomaranč – kakao bez pridaného cukru, 100 g",
+      cacaoShort:
+        "REDOX BITE YUMMI CACAO Pomaranč je prémiová kakaová zmes s vysokým obsahom kakaa, sviežou pomarančovou príchuťou a pravou vanilkou. Neobsahuje pridaný cukor a môžete ju použiť na prípravu horúceho kakaa, do smoothie, jogurtu, tvarohu aj pri pečení. Receptúra je navrhnutá na dosiahnutie stabilného záporného ORP po príprave.",
+      cacaoTagSugar: "Bez pridaného cukru",
+      cacaoTagVegan: "Vegan",
+      cacaoTagOrp: "Záporné ORP",
+      cacaoTagOrange: "Pomaranč",
+      cacaoUseBtn: "Ako používať",
+      cacaoCardTitle: "REDOX BITE YUMMI CACAO Pomaranč",
+      cacaoCardDesc:
+        "Prémiová kakaová zmes s pomarančom, pravou vanilkou a bez pridaného cukru. Na horúce kakao, smoothie, jogurt, tvaroh aj pečenie. 100 g.",
+      cacaoCardBtn: "Zistiť viac",
+      cacaoFrontAlt: "REDOX BITE YUMMI CACAO s pomarančom v čiernom doypack balení 100 g",
+      cacaoBackAlt: "Zadná strana balenia YUMMI CACAO Pomaranč so zložením, použitím a výživovými údajmi",
+      cacaoAboutLabel: "O produkte",
+      cacaoAboutTitle: 'Kakao novej generácie s <span class="highlight">pomarančom</span>',
+      cacaoLong1:
+        "Objavte spojenie intenzívnej kakaovej chuti, voňavej vanilky a sviežeho pomaranča. REDOX BITE YUMMI CACAO Pomaranč obsahuje kombináciu alkalizovaného a prírodného kakaového prášku, ktoré spolu tvoria 96 % receptúry.",
+      cacaoLong2:
+        "Kakaovú chuť dopĺňa pomarančový prášok, prírodná pomarančová aróma, pravá vanilka, kurkuma, kardamóm a jemná štipka soli. Výsledkom je aromatická kakaová zmes vhodná na každodennú prípravu teplých aj studených jedál a nápojov.",
+      cacaoLong3:
+        "YUMMI CACAO neobsahuje pridaný cukor. Sladkosť si preto môžete prispôsobiť podľa vlastnej chuti – medom, čakankovým sirupom, cukrom alebo obľúbeným sladidlom.",
+      cacaoLong4:
+        "Receptúra bola vyvinutá s cieľom dosiahnuť stabilné záporné ORP. Tento údaj opisuje fyzikálno-chemickú vlastnosť produktu po príprave a nemení jeho univerzálne využitie v kuchyni.",
+      cacaoFeatLabel: "Hlavné vlastnosti",
+      cacaoFeatTitle: 'Prečo YUMMI CACAO <span class="highlight">Pomaranč</span>',
+      cacaoFeat1: "96 % alkalizovaného a prírodného kakaa",
+      cacaoFeat2: "bez pridaného cukru",
+      cacaoFeat3: "s pomarančovým práškom a pomarančovou arómou",
+      cacaoFeat4: "s pravou vanilkou, kurkumou a kardamómom",
+      cacaoFeat5: "vhodné pre vegánov",
+      cacaoFeat6: "stabilné záporné ORP po príprave",
+      cacaoFeat7: "na teplé kakao, smoothie, jogurt, tvaroh a pečenie",
+      cacaoFeat8: "praktické balenie 100 g",
+      cacaoUseLabel: "Použitie",
+      cacaoUseTitle: 'Ako používať <span class="highlight">YUMMI CACAO</span>',
+      cacaoUse1Title: "Horúce kakao",
+      cacaoUse1Text: "Zmiešajte 1–2 čajové lyžičky s teplým mliekom alebo rastlinným nápojom. Oslaďte podľa vlastnej chuti.",
+      cacaoUse2Title: "Jogurt alebo tvaroh",
+      cacaoUse2Text: "Primiešajte požadované množstvo do jogurtu alebo tvarohu a podľa chuti pridajte ovocie alebo sladidlo.",
+      cacaoUse3Title: "Smoothie",
+      cacaoUse3Text: "Pridajte do ovocného, proteínového alebo raňajkového smoothie pre výraznejšiu kakaovo-pomarančovú chuť.",
+      cacaoUse4Title: "Pečenie",
+      cacaoUse4Text: "Použite do koláčov, muffinov, dezertov, kaší alebo domáceho pečiva.",
+      cacaoIngTitle: 'Čo je vo <span class="highlight">vrecku</span>',
+      cacaoIngText:
+        "Alkalizovaný kakaový prášok 59,7 %, prírodný kakaový prášok 36,3 %, pomarančová aróma (dextróza, prírodná pomarančová aróma), pomarančový prášok (pomarančová šťava, maltodextrín), kurkuma, kardamóm, prírodná škoricová aróma, mletá vanilka, soľ, stabilizátory: chlorid vápenatý (E509), chlorid horečnatý (E511).",
+      cacaoAllergens: "Môže obsahovať stopy orechov.",
+      cacaoStorage: "Skladujte v suchu pri teplote do 25 °C, chráňte pred vlhkosťou a slnečným žiarením.",
+      cacaoNutriTitle: "Nutričné hodnoty na 100 g",
+      cacaoNutriEnergy: "Energetická hodnota",
+      cacaoNutriFat: "Tuky",
+      cacaoNutriSat: "z toho nasýtené mastné kyseliny",
+      cacaoNutriCarb: "Sacharidy",
+      cacaoNutriSugar: "z toho cukry",
+      cacaoNutriFiber: "Vláknina",
+      cacaoNutriProtein: "Bielkoviny",
+      cacaoNutriSalt: "Soľ",
+      cacaoFaqLabel: "Časté otázky",
+      cacaoFaqTitle: 'Odpovede na <span class="highlight">najčastejšie otázky</span>',
+      cacaoFaq1Q: "Obsahuje YUMMI CACAO cukor?",
+      cacaoFaq1A: "Produkt neobsahuje pridaný cukor. Prirodzene sa v ňom však nachádza malé množstvo cukrov pochádzajúcich zo surovín.",
+      cacaoFaq2Q: "Je YUMMI CACAO vhodné pre vegánov?",
+      cacaoFaq2A: "Áno, samotná kakaová zmes neobsahuje zložky živočíšneho pôvodu. Môžete ju pripraviť s rastlinným nápojom alebo pridať do rastlinného jogurtu.",
+      cacaoFaq3Q: "Ako sa pomarančové kakao pripravuje?",
+      cacaoFaq3A: "Jednu až dve čajové lyžičky rozmiešajte v teplom mlieku alebo rastlinnom nápoji. Podľa chuti oslaďte.",
+      cacaoFaq4Q: "Dá sa použiť aj pri pečení?",
+      cacaoFaq4A: "Áno. Hodí sa do koláčov, muffinov, dezertov, raňajkových kaší, smoothie aj domáceho pečiva.",
+      cacaoCtaTitle: 'Chcete YUMMI CACAO <span class="highlight">Pomaranč</span>?',
+      cacaoCtaText: "Napíšte nám alebo navštívte oficiálny obchod ZEOZOE. Radi vám poradíme s objednávkou."
     },
     en: {
       pageTitle: "Redox Bite | by ZEOZOE",
@@ -154,7 +230,7 @@
       aboutCredit: 'Registered brand <strong>ZEOZOE®</strong> &middot; Made in Slovakia',
       productsLabel: "Products",
       productsTitle: 'Redox Bite by <span class="highlight">ZEOZOE</span>',
-      productsIntro: "Berry Digest — a functional bar for energy and digestion. Available again from July 14.",
+      productsIntro: "Berry Digest — a functional bar for energy and digestion. YUMMI CACAO Orange — cocoa with no added sugar.",
       badgeNew: "New",
       productSingleDesc:
         "Functional redox bar — 1 × 40 g. Supports cellular energy and digestive balance thanks to negative ORP –30 mV.",
@@ -230,7 +306,83 @@
       emailLabel: "Email",
       shopLabel: "Store",
       footerCredit: "by ZEOZOE® &middot; Made in Slovakia &middot; &copy; 2026",
-      mailSubjectPrefix: "Redox Bite — Message from "
+      mailSubjectPrefix: "Redox Bite — Message from ",
+      cacaoPageTitle: "YUMMI CACAO Orange | No added sugar",
+      cacaoMetaDesc:
+        "Premium cocoa blend with orange, real vanilla and no added sugar. For hot cocoa, smoothies, yogurt, quark and baking. 100 g.",
+      cacaoHome: "Home",
+      cacaoBreadcrumb: "YUMMI CACAO Orange",
+      cacaoH1: 'YUMMI CACAO <span class="highlight">Orange</span>',
+      cacaoSeoName: "REDOX BITE YUMMI CACAO Orange – cocoa with no added sugar, 100 g",
+      cacaoShort:
+        "REDOX BITE YUMMI CACAO Orange is a premium cocoa blend with a high cocoa content, fresh orange flavour and real vanilla. It contains no added sugar and can be used for hot cocoa, smoothies, yogurt, quark and baking. The recipe is designed to achieve a stable negative ORP after preparation.",
+      cacaoTagSugar: "No added sugar",
+      cacaoTagVegan: "Vegan",
+      cacaoTagOrp: "Negative ORP",
+      cacaoTagOrange: "Orange",
+      cacaoUseBtn: "How to use",
+      cacaoCardTitle: "REDOX BITE YUMMI CACAO Orange",
+      cacaoCardDesc:
+        "Premium cocoa blend with orange, real vanilla and no added sugar. For hot cocoa, smoothies, yogurt, quark and baking. 100 g.",
+      cacaoCardBtn: "Learn more",
+      cacaoFrontAlt: "REDOX BITE YUMMI CACAO with orange in a black 100 g doypack",
+      cacaoBackAlt: "Back of YUMMI CACAO Orange pack with ingredients, use and nutrition facts",
+      cacaoAboutLabel: "About the product",
+      cacaoAboutTitle: 'A new generation of cocoa with <span class="highlight">orange</span>',
+      cacaoLong1:
+        "Discover the combination of intense cocoa flavour, fragrant vanilla and fresh orange. REDOX BITE YUMMI CACAO Orange contains alkalized and natural cocoa powder, which together make up 96% of the recipe.",
+      cacaoLong2:
+        "The cocoa taste is rounded out with orange powder, natural orange flavour, real vanilla, turmeric, cardamom and a pinch of salt. The result is an aromatic cocoa blend for everyday hot and cold drinks and meals.",
+      cacaoLong3:
+        "YUMMI CACAO contains no added sugar. You can sweeten it to taste with honey, chicory syrup, sugar or your preferred sweetener.",
+      cacaoLong4:
+        "The recipe was developed to achieve a stable negative ORP. This describes a physico-chemical property of the product after preparation and does not change its everyday kitchen use.",
+      cacaoFeatLabel: "Key features",
+      cacaoFeatTitle: 'Why YUMMI CACAO <span class="highlight">Orange</span>',
+      cacaoFeat1: "96% alkalized and natural cocoa",
+      cacaoFeat2: "no added sugar",
+      cacaoFeat3: "with orange powder and orange flavour",
+      cacaoFeat4: "with real vanilla, turmeric and cardamom",
+      cacaoFeat5: "suitable for vegans",
+      cacaoFeat6: "stable negative ORP after preparation",
+      cacaoFeat7: "for hot cocoa, smoothies, yogurt, quark and baking",
+      cacaoFeat8: "practical 100 g pack",
+      cacaoUseLabel: "How to use",
+      cacaoUseTitle: 'How to use <span class="highlight">YUMMI CACAO</span>',
+      cacaoUse1Title: "Hot cocoa",
+      cacaoUse1Text: "Mix 1–2 teaspoons with warm milk or a plant-based drink. Sweeten to taste.",
+      cacaoUse2Title: "Yogurt or quark",
+      cacaoUse2Text: "Stir the desired amount into yogurt or quark and add fruit or sweetener to taste.",
+      cacaoUse3Title: "Smoothie",
+      cacaoUse3Text: "Add to a fruit, protein or breakfast smoothie for a richer cocoa-orange flavour.",
+      cacaoUse4Title: "Baking",
+      cacaoUse4Text: "Use in cakes, muffins, desserts, porridges or homemade baked goods.",
+      cacaoIngTitle: 'What’s in the <span class="highlight">pouch</span>',
+      cacaoIngText:
+        "Alkalized cocoa powder 59.7%, natural cocoa powder 36.3%, orange flavour (dextrose, natural orange flavour), orange powder (orange juice, maltodextrin), turmeric, cardamom, natural cinnamon flavour, ground vanilla, salt, stabilizers: calcium chloride (E509), magnesium chloride (E511).",
+      cacaoAllergens: "May contain traces of nuts.",
+      cacaoStorage: "Store in a dry place at up to 25 °C, protected from moisture and sunlight.",
+      cacaoNutriTitle: "Nutrition facts per 100 g",
+      cacaoNutriEnergy: "Energy",
+      cacaoNutriFat: "Fat",
+      cacaoNutriSat: "of which saturates",
+      cacaoNutriCarb: "Carbohydrates",
+      cacaoNutriSugar: "of which sugars",
+      cacaoNutriFiber: "Fibre",
+      cacaoNutriProtein: "Protein",
+      cacaoNutriSalt: "Salt",
+      cacaoFaqLabel: "FAQ",
+      cacaoFaqTitle: 'Answers to the <span class="highlight">most common questions</span>',
+      cacaoFaq1Q: "Does YUMMI CACAO contain sugar?",
+      cacaoFaq1A: "The product contains no added sugar. It does naturally contain a small amount of sugars from the ingredients.",
+      cacaoFaq2Q: "Is YUMMI CACAO suitable for vegans?",
+      cacaoFaq2A: "Yes. The cocoa blend itself contains no ingredients of animal origin. Prepare it with a plant-based drink or add it to plant-based yogurt.",
+      cacaoFaq3Q: "How is the orange cocoa prepared?",
+      cacaoFaq3A: "Stir one to two teaspoons into warm milk or a plant-based drink. Sweeten to taste.",
+      cacaoFaq4Q: "Can it be used for baking?",
+      cacaoFaq4A: "Yes. It works in cakes, muffins, desserts, breakfast porridges, smoothies and homemade baked goods.",
+      cacaoCtaTitle: 'Want YUMMI CACAO <span class="highlight">Orange</span>?',
+      cacaoCtaText: "Write to us or visit the official ZEOZOE store. We’ll be happy to help with your order."
     }
   };
 
@@ -280,7 +432,10 @@
     });
 
     const titleEl = document.querySelector("title[data-i18n]");
-    if (titleEl && dict.pageTitle) titleEl.textContent = dict.pageTitle;
+    if (titleEl) {
+      const titleKey = titleEl.getAttribute("data-i18n");
+      if (titleKey && dict[titleKey] != null) titleEl.textContent = dict[titleKey];
+    }
 
     const codeEl = document.getElementById("langCode");
     const toggleEl = document.getElementById("langToggle");
