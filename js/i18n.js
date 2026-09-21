@@ -38,7 +38,7 @@
       aboutCredit: 'Registrovaná značka <strong>ZEOZOE®</strong> &middot; Vyrobené na Slovensku',
       productsLabel: "Produkty",
       productsTitle: 'Redox Bite by <span class="highlight">ZEOZOE</span>',
-      productsIntro: "Berry Digest — funkčná tyčinka pre energiu a trávenie. YUMMI CACAO Pomaranč — kakao bez pridaného cukru.",
+      productsIntro: "YUMMI CACAO — kakao bez pridaného cukru. Berry Digest — funkčná tyčinka pre energiu a trávenie.",
       badgeNew: "Novinka",
       productSingleDesc:
         "Funkčná redoxná tyčinka — 1 × 40 g. Podporuje bunkovú energiu a rovnováhu trávenia vďaka zápornému ORP –30 mV.",
@@ -190,7 +190,61 @@
       cacaoFaq4Q: "Dá sa použiť aj pri pečení?",
       cacaoFaq4A: "Áno. Hodí sa do koláčov, muffinov, dezertov, raňajkových kaší, smoothie aj domáceho pečiva.",
       cacaoCtaTitle: 'Chcete YUMMI CACAO <span class="highlight">Pomaranč</span>?',
-      cacaoCtaText: "Napíšte nám alebo navštívte oficiálny obchod ZEOZOE. Radi vám poradíme s objednávkou."
+      cacaoCtaText: "Napíšte nám alebo navštívte oficiálny obchod ZEOZOE. Radi vám poradíme s objednávkou.",
+      ycPageTitle: "REDOX BITE YUMMI CACAO – kakao bez pridaného cukru, 100 g",
+      ycMetaDesc:
+        "YUMMI CACAO spája prírodné a alkalizované kakao, pravú vanilku a merateľné záporné ORP. Bez pridaného cukru, do nápojov, kaší aj na pečenie.",
+      ycBreadcrumb: "YUMMI CACAO",
+      ycH1: 'YUMMI <span class="highlight">CACAO</span>',
+      ycSeoName: "REDOX BITE YUMMI CACAO – kakao bez pridaného cukru, 100 g",
+      ycShort:
+        "Kakao novej generácie s pravou vanilkou, bez pridaného cukru a s merateľným záporným ORP. Vychutnajte si ho ako nápoj, v jogurte, kaši, smoothie alebo pri pečení – a oslaďte si ho presne podľa seba.",
+      ycCardTitle: "REDOX BITE YUMMI CACAO",
+      ycCardDesc:
+        "Kakao novej generácie s pravou vanilkou, bez pridaného cukru a s merateľným záporným ORP. Do nápojov, kaší aj na pečenie. 100 g.",
+      ycFrontAlt: "REDOX BITE YUMMI CACAO v béžovom doypack balení 100 g",
+      ycBackAlt: "Zadná strana balenia YUMMI CACAO so zložením, použitím a výživovými údajmi",
+      ycAboutTitle:
+        'Kakao novej generácie s voľnými elektrónmi a merateľným <span class="highlight">záporným ORP</span>',
+      ycLong1:
+        "Objavte kakao, ktoré si pripravíte presne podľa svojej chuti. REDOX BITE YUMMI CACAO spája alkalizované a prírodné kakao, pravú vanilku a jemnú štipku soli. Neobsahuje pridaný cukor, takže je len na vás, či si ho vychutnáte bez sladenia alebo pridáte med, cukor či obľúbený sirup.",
+      ycLong2:
+        "Vďaka univerzálnemu použitiu sa hodí do teplého mlieka alebo rastlinného nápoja, jogurtu, tvarohu, kaše či smoothie. Využiť ho môžete aj pri pečení koláčov, muffinov, dezertov alebo domáceho chleba.",
+      ycFeatLabel: "Prečo si ho obľúbite",
+      ycFeatTitle: 'Prečo YUMMI <span class="highlight">CACAO</span>',
+      ycFeat1: "bez pridaného cukru",
+      ycFeat2: "kombinácia alkalizovaného a prírodného kakaa",
+      ycFeat3: "s pravou vanilkou",
+      ycFeat4: "vegánske zloženie",
+      ycFeat5: "vysoký obsah vlákniny",
+      ycFeat6: "iba 0,1 g cukrov na 100 g",
+      ycFeat7: "všestranné použitie v nápojoch, raňajkách aj pri pečení",
+      ycFeat8: "sladkosť si zvolíte podľa vlastnej chuti",
+      ycFeat9: "merateľné záporné ORP pripraveného produktu",
+      ycOrpTitle: 'Čo znamená <span class="highlight">záporné ORP</span>?',
+      ycOrp1:
+        "ORP – oxidačno-redukčný potenciál – je fyzikálno-chemický parameter meraný v pripravenom roztoku. Záporná hodnota ORP označuje jeho redukčný charakter, teda schopnosť odovzdávať elektróny.",
+      ycOrp2:
+        "Výsledná hodnota sa môže meniť podľa použitej vody, spôsobu prípravy, teploty a podmienok skladovania. Údaj o ORP opisuje merateľnú vlastnosť produktu a nepredstavuje tvrdenie o zdravotnom účinku v ľudskom tele.",
+      ycUseTitle: 'Ako používať <span class="highlight">YUMMI CACAO</span>',
+      ycUse1Title: "Ako kakaový nápoj",
+      ycUse1Text:
+        "Zmiešajte 1 až 2 čajové lyžičky s teplým mliekom alebo rastlinným nápojom. Podľa chuti oslaďte a dobre premiešajte.",
+      ycUse2Title: "Do jogurtu alebo tvarohu",
+      ycUse2Text: "Primiešajte požadované množstvo do jogurtu alebo tvarohu. Podľa chuti pridajte obľúbené sladidlo.",
+      ycUse3Title: "Do smoothie alebo kaše",
+      ycUse3Text: "Dodajte svojmu smoothie, ovsenej kaši alebo raňajkovej miske plnú kakaovú chuť.",
+      ycUse4Title: "Na pečenie",
+      ycUse4Text: "Použite ako kakaovú zložku do koláčov, muffinov, dezertov alebo domáceho chleba.",
+      ycIngTitle: 'Čo je vo <span class="highlight">vrecku</span>',
+      ycIngText: "Alkalizované kakao, prírodné kakao, pravá vanilka, chlorid vápenatý, chlorid horečnatý.",
+      ycAllergens: "Môže obsahovať stopy orechov.",
+      ycStorage: "Skladujte na suchom mieste pri teplote do 25 °C. Chráňte pred vlhkom a priamym slnečným žiarením.",
+      ycDistributor:
+        "Distribútor: RAZELIA s.r.o., Rozmarínová 10, 951 01 Nitrianske Hrnčiarovce, Slovenská republika",
+      ycNutriTitle: "Výživové hodnoty na 100 g",
+      ycCtaTitle: 'Chcete YUMMI <span class="highlight">CACAO</span>?',
+      ycCtaText: "Napíšte nám alebo navštívte oficiálny obchod ZEOZOE. Radi vám poradíme s objednávkou."
     },
     en: {
       pageTitle: "Redox Bite | by ZEOZOE",
@@ -230,7 +284,7 @@
       aboutCredit: 'Registered brand <strong>ZEOZOE®</strong> &middot; Made in Slovakia',
       productsLabel: "Products",
       productsTitle: 'Redox Bite by <span class="highlight">ZEOZOE</span>',
-      productsIntro: "Berry Digest — a functional bar for energy and digestion. YUMMI CACAO Orange — cocoa with no added sugar.",
+      productsIntro: "YUMMI CACAO — cocoa with no added sugar. Berry Digest — a functional bar for energy and digestion.",
       badgeNew: "New",
       productSingleDesc:
         "Functional redox bar — 1 × 40 g. Supports cellular energy and digestive balance thanks to negative ORP –30 mV.",
@@ -382,7 +436,61 @@
       cacaoFaq4Q: "Can it be used for baking?",
       cacaoFaq4A: "Yes. It works in cakes, muffins, desserts, breakfast porridges, smoothies and homemade baked goods.",
       cacaoCtaTitle: 'Want YUMMI CACAO <span class="highlight">Orange</span>?',
-      cacaoCtaText: "Write to us or visit the official ZEOZOE store. We’ll be happy to help with your order."
+      cacaoCtaText: "Write to us or visit the official ZEOZOE store. We’ll be happy to help with your order.",
+      ycPageTitle: "REDOX BITE YUMMI CACAO – cocoa with no added sugar, 100 g",
+      ycMetaDesc:
+        "YUMMI CACAO combines natural and alkalized cocoa, real vanilla and measurable negative ORP. No added sugar — for drinks, porridge and baking.",
+      ycBreadcrumb: "YUMMI CACAO",
+      ycH1: 'YUMMI <span class="highlight">CACAO</span>',
+      ycSeoName: "REDOX BITE YUMMI CACAO – cocoa with no added sugar, 100 g",
+      ycShort:
+        "A new generation of cocoa with real vanilla, no added sugar and measurable negative ORP. Enjoy it as a drink, in yogurt, porridge, smoothies or baking — and sweeten it exactly your way.",
+      ycCardTitle: "REDOX BITE YUMMI CACAO",
+      ycCardDesc:
+        "A new generation of cocoa with real vanilla, no added sugar and measurable negative ORP. For drinks, porridge and baking. 100 g.",
+      ycFrontAlt: "REDOX BITE YUMMI CACAO in a beige 100 g doypack",
+      ycBackAlt: "Back of YUMMI CACAO pack with ingredients, use and nutrition facts",
+      ycAboutTitle:
+        'A new generation of cocoa with free electrons and measurable <span class="highlight">negative ORP</span>',
+      ycLong1:
+        "Discover cocoa you prepare exactly to your taste. REDOX BITE YUMMI CACAO combines alkalized and natural cocoa, real vanilla and a pinch of salt. It contains no added sugar, so it’s up to you whether you enjoy it unsweetened or add honey, sugar or your favourite syrup.",
+      ycLong2:
+        "Thanks to its versatile use, it works in warm milk or a plant-based drink, yogurt, quark, porridge or smoothies. You can also use it when baking cakes, muffins, desserts or homemade bread.",
+      ycFeatLabel: "Why you’ll love it",
+      ycFeatTitle: 'Why YUMMI <span class="highlight">CACAO</span>',
+      ycFeat1: "no added sugar",
+      ycFeat2: "a blend of alkalized and natural cocoa",
+      ycFeat3: "with real vanilla",
+      ycFeat4: "vegan formula",
+      ycFeat5: "high fibre content",
+      ycFeat6: "only 0.1 g sugars per 100 g",
+      ycFeat7: "versatile use in drinks, breakfasts and baking",
+      ycFeat8: "you choose the sweetness",
+      ycFeat9: "measurable negative ORP of the prepared product",
+      ycOrpTitle: 'What does <span class="highlight">negative ORP</span> mean?',
+      ycOrp1:
+        "ORP — oxidation-reduction potential — is a physico-chemical parameter measured in the prepared solution. A negative ORP value indicates its reducing character, that is, the ability to donate electrons.",
+      ycOrp2:
+        "The resulting value may change depending on the water used, preparation method, temperature and storage conditions. The ORP figure describes a measurable property of the product and is not a claim about a health effect in the human body.",
+      ycUseTitle: 'How to use <span class="highlight">YUMMI CACAO</span>',
+      ycUse1Title: "As a cocoa drink",
+      ycUse1Text:
+        "Mix 1 to 2 teaspoons with warm milk or a plant-based drink. Sweeten to taste and stir well.",
+      ycUse2Title: "In yogurt or quark",
+      ycUse2Text: "Stir the desired amount into yogurt or quark. Add your preferred sweetener to taste.",
+      ycUse3Title: "In a smoothie or porridge",
+      ycUse3Text: "Give your smoothie, oat porridge or breakfast bowl a full cocoa flavour.",
+      ycUse4Title: "For baking",
+      ycUse4Text: "Use as the cocoa component in cakes, muffins, desserts or homemade bread.",
+      ycIngTitle: 'What’s in the <span class="highlight">pouch</span>',
+      ycIngText: "Alkalized cocoa, natural cocoa, real vanilla, calcium chloride, magnesium chloride.",
+      ycAllergens: "May contain traces of nuts.",
+      ycStorage: "Store in a dry place at up to 25 °C. Protect from moisture and direct sunlight.",
+      ycDistributor:
+        "Distributor: RAZELIA s.r.o., Rozmarínová 10, 951 01 Nitrianske Hrnčiarovce, Slovak Republic",
+      ycNutriTitle: "Nutrition facts per 100 g",
+      ycCtaTitle: 'Want YUMMI <span class="highlight">CACAO</span>?',
+      ycCtaText: "Write to us or visit the official ZEOZOE store. We’ll be happy to help with your order."
     }
   };
 
