@@ -682,7 +682,7 @@ img {
 }
 
 .product-image-wrap--cream {
-  background: #ede2d8;
+  background: #ffffff;
 }
 
 .product-image-wrap--contain .product-image {
@@ -1216,11 +1216,12 @@ img {
   border-radius: 12px;
   border: 1px solid var(--border);
   background: #ffffff;
-  padding: 1rem;
+  padding: 0;
+  overflow: hidden;
 }
 
 .pdp__shot--cream {
-  background: #ede2d8;
+  background: #ffffff;
 }
 
 .pdp__shot img {
